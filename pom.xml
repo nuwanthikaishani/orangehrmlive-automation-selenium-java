@@ -79,6 +79,12 @@
             <artifactId>selenium-devtools-v113</artifactId>
             <version>4.11.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>33.0.0-jre</version> <!-- or 31.1-jre -->
+        </dependency>
+
 
     </dependencies>
 
